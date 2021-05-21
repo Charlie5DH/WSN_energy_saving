@@ -1,0 +1,10 @@
+name: WSN_energy_saving
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - cudatoolkit
+  - cudnn
+  - pip
+  - pip:
+    - pip-tools
