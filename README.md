@@ -9,7 +9,7 @@ In `Data/` is the data from the module used for making predictions.  There are 3
 - Mod_5Min_resampled.csv is the same data resampled to 5 Minutes using the mean.
 - Resampled_Shorted.csv is the data resampled to 5 Minutes using the mean, from 2018-10-01 to 2019-05-01, which was the period used in the paper. See next image.
 
-![](../Images/Measures_from_sensors.png)
+<img src="Images/Measures_from_sensors.png" width="1200" height="500">
 
 If you want to use a different date range or sampling frequency, use the `34.B2.9F.A9.csv`. 
 
