@@ -11,5 +11,4 @@ Rexnord ZA-2115 double row bearings were installed on the shaft as shown in Figu
 - <strong>To start, a single file can be used for analysis</strong>
 - The notebook has a demo of how to read the data and a visualization of vibration
 - Channel Arrangement: Bearing 1 – Ch 1&2; Bearing 2 – Ch 3&4; Bearing 3 – Ch 5&6; Bearing 4 – Ch 7&8.
-- File Recording Interval: Every 10 minutes (except the first 43 files were taken every 5 minutes)
 - File Format: ASCII
