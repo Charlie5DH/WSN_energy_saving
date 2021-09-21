@@ -5,7 +5,7 @@ Rexnord ZA-2115 double row bearings were installed on the shaft as shown in Figu
 
 ### Set:
 
-- Data in bearing dataset folder
+- Data in `bearing_dataset` folder
 - No. of Channels: 8
 - Every file represents a time interval
 - <strong>To start, a single file can be used for analysis</strong>
