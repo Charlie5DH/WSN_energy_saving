@@ -5,8 +5,10 @@ Rexnord ZA-2115 double row bearings were installed on the shaft as shown in Figu
 
 ### Set:
 
+- Data in bearing dataset folder
 - No. of Channels: 8
+- Every file represents a time interval
+- To start, a single file can be used for analysis
 - Channel Arrangement: Bearing 1 – Ch 1&2; Bearing 2 – Ch 3&4; Bearing 3 – Ch 5&6; Bearing 4 – Ch 7&8.
 - File Recording Interval: Every 10 minutes (except the first 43 files were taken every 5 minutes)
 - File Format: ASCII
-- Description: At the end of the test-to-failure experiment, inner race defect occurred in bearing 3 and roller element defect in bearing 4.
